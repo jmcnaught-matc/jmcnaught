@@ -1,0 +1,11 @@
+commit 47ef860b40038d81d6391dfe27befaff4810bd65
+Author: Jesse McNaught <jmcnaught@madisoncollege.edu>
+Date:   Thu Jun 24 22:08:24 2021 -0500
+
+    Added a new file
+
+commit 85ab28a3a7fbef43ef03ec50ab13335f65b25f58
+Author: Jesse McNaught <jmcnaught@madisoncollege.edu>
+Date:   Thu Jun 24 22:01:00 2021 -0500
+
+    Initial commit of GitHub exercise
